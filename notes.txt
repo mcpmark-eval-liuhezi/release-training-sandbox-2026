@@ -1,0 +1,10 @@
+Release-process training notes
+==============================
+
+Agenda (placeholder):
+
+- [ ] Welcome and logistics
+- [ ] CI artifacts: how the build report is produced and uploaded
+- [ ] Code-scanning hygiene: reading and triaging alerts
+- [ ] Community etiquette: how to behave in public project discussions
+- [ ] Wrap-up and Q&A
